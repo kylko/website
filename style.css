@@ -1,0 +1,19 @@
+.socialicon{
+    width:3em;
+    height:3em;
+    margin:0.5em;
+}
+.socialicon:hover{
+    opacity:0.8;
+}
+.background{
+    width:100vw;
+    height:100vh;
+    position:absolute;
+    z-index: -1;
+    
+    
+    background: rgb(232,232,241);
+background: linear-gradient(137deg, rgba(232,232,241,1) 0%, rgba(246,219,221,1) 28%, rgba(198,198,236,1) 72%, rgba(192,213,217,1) 100%);
+}
+
